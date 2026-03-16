@@ -1,0 +1,10 @@
+com/dby/ai/service/ChatResponse.class
+com/dby/ai/AiServiceApplication.class
+com/dby/ai/service/OpenAiResponse$Choice.class
+com/dby/ai/controller/AiController.class
+com/dby/ai/service/OpenAiResponse.class
+com/dby/ai/service/OpenAiResponse$Message.class
+com/dby/ai/config/OpenAiConfig.class
+com/dby/ai/service/OpenAiResponse$Usage.class
+com/dby/ai/service/ChatRequest.class
+com/dby/ai/service/AiChatService.class
