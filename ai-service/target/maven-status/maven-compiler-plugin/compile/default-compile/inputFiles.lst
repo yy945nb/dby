@@ -1,7 +1,0 @@
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/service/AiChatService.java
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/controller/AiController.java
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/AiServiceApplication.java
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/service/OpenAiResponse.java
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/service/ChatResponse.java
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/config/OpenAiConfig.java
-/home/runner/work/dby/dby/ai-service/src/main/java/com/dby/ai/service/ChatRequest.java
